@@ -6,13 +6,13 @@ NodeMCU ESP8266 is used as the microcontroller for both systems.
 
 ### Sensors
 
-1.  [MAX30100](https://robu.in/product/max30100-pulse-oximeter-heart-rate-sensor-module/) - Pulse oxymeter 
+1.  [MAX30100](https://robu.in/product/max30100-pulse-oximeter-heart-rate-sensor-module/) - Pulse oximeter 
 2.  [DS18B20](https://www.electronicscomp.com/ds18b20-water-proof-temperature-sensor-probe-india) - Temperature sensor
 3.  [RC522](https://www.electronicscomp.com/rc522-rfid-13.56mhz-reader-writer-module-india) - RFID sensor
 
 ### Libraries Used
 
-#### For Pulse Oxymetere and Temperature Sensor
+#### For Pulse Oximetere and Temperature Sensor
 
 1.  ESP8266WiFi
 2.  BlynkSimpleEsp8266
