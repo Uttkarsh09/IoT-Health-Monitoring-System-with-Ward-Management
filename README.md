@@ -37,7 +37,7 @@ The health monitoring and ward management systems are independent of each other,
 
 Blynk is used as the front end for activating and monitoring the output from the sensors.
 
-![](Photos/Blynk Console.png)
+![Blynk Console](https://github.com/Uttkarsh09/IoT-Health-Monitoring-System-with-Ward-Management/blob/master/Photos/Blynk%20Console.png)
 
 
 ## Setting up
