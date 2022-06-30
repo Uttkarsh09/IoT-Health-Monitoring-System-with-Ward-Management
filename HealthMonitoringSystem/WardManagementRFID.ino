@@ -6,8 +6,8 @@
 #include <addons/TokenHelper.h>
 #include <addons/RTDBHelper.h>
 
-#define WIFI_SSID "Atharv"
-#define WIFI_PASSWORD "atharv123"
+#define WIFI_SSID "~~SSID~~"
+#define WIFI_PASSWORD "~~Password~~"
 #define API_KEY "~~Firebase RealtimeDB API key~~"
 #define DATABASE_URL "~~Firebase Realtime DB URL~~" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 #define USER_EMAIL "~~User email~~"
